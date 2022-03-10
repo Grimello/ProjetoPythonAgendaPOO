@@ -1,5 +1,5 @@
 # ProjetoPythonAgendaPOO
-Primeiro projeto do Data Science Degree Empiricus em que foi criada uma agenda de contatos em Python.
+Neste projeto do Data Science Degree Empiricus em que foi criada uma agenda de contatos em Python.
 Na agenda teríamos que incluir algumas funcionalidades para o usuário como:
 - Adicionar ou remover contatos, 
 - Criação de grupos, 
